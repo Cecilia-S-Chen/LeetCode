@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shuochen/Desktop/LeetCode/String/Medium/3. Longest Substring Without Repeating Characters.cpp
+iostream
+-
+unordered_map
+-
+
